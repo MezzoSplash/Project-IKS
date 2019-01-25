@@ -1,4 +1,4 @@
-Welom op de project pagina van PROJECT-IKS
+Welkom op de project pagina van PROJECT-IKS
 
 Started in 2018
 
